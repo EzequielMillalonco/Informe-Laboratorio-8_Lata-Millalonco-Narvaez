@@ -18,8 +18,10 @@
 
     7.5.1. Implemente el circuito que se presenta en la figura 7.1
     
+![image](https://user-images.githubusercontent.com/93396250/153700710-8c093aec-fc50-4ad6-ad85-ae466c12c710.png)
+
     
-    7.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+    7.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
     
     7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
     
