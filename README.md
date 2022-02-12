@@ -7,11 +7,22 @@
 
 
         Específicos: 
- 
+        
+   1. 
+        
+   2.
+        
+   3. 
+        
 
         
 
 ## 2. MARCO TEÓRICO
+
+
+**MATERIAL Y EQUIPO REQUERIDO**
+
+![image](https://user-images.githubusercontent.com/93396250/153700729-6422ff39-608f-4848-b3fe-8d145e31c3e6.png)
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
