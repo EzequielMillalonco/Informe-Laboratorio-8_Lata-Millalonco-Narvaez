@@ -47,13 +47,13 @@ Circuito implementado en el simulador DCAC lab
     
     7.5.4. Responda las siguientes preguntas:
     
-  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 2.3 cuadros
+  **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?** 2.3 cuadros
 
-  ¿En qué valor está posicionada la perilla VOLTS/DIV? 3V (voltios)
+  **¿En qué valor está posicionada la perilla VOLTS/DIV?** 3V (voltios)
 
-  ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 4
+  **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?** 4
   
-  ¿En qué valor está posicionada la perilla TIME/DIV? 0.1 ms (milisegundos)
+  **¿En qué valor está posicionada la perilla TIME/DIV?** 0.1 ms (milisegundos)
 
     7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
