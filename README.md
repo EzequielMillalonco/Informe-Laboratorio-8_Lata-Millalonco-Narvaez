@@ -31,12 +31,17 @@
     
 ![image](https://user-images.githubusercontent.com/93396250/153700710-8c093aec-fc50-4ad6-ad85-ae466c12c710.png)
 
-    
+![cir 1](https://user-images.githubusercontent.com/93396250/153979580-2117e080-1188-4523-b12b-07d52cf1ca93.JPG)
+
     7.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
-    
+
+![cir 2](https://user-images.githubusercontent.com/93396250/153979544-728ef7cc-f54e-4a08-b9a4-8399c3b3cb07.JPG)
+
     
     7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
-    
+
+![cir 3](https://user-images.githubusercontent.com/93396250/153979554-fc21d0b1-54d4-461b-ad17-a7fd7cc6d808.JPG)
+
     
     7.5.4. Responda las siguientes preguntas:
     
