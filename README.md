@@ -19,6 +19,9 @@
 
 ## 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/93826527/153984180-af52c02f-9259-4bf4-8fab-52ee3b99a86b.png)
+
+
 
 **MATERIAL Y EQUIPO REQUERIDO**
 
@@ -65,14 +68,17 @@ Circuito implementado en el simulador DCAC lab
   f: _____________(Hz)
   ω: ____________(rad/s)
     
-    7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.112 (V)
+    7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.912 (V)
     
     7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. 
   ¿Coniciden?
   
+  NO
   
+  ¿Por qué? 
   
-  ¿Por qué?  
+  El voltaje medido por el multimetro a la salida RL es un valor eficaz RMS, mientras que la amplitud es un valor pico de voltaje.
+  
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
