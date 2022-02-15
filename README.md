@@ -4,15 +4,15 @@
  
         General: 
 
-
+Determinar experimentalmente las características de señales senoidales.
 
         Específicos: 
         
-   1. 
+   1. Armar el circuito propuesto mediante el uso de simuladores online, en este caso DCACLAB
+       
+   2. Analizar los distintos componentes que formal la onda senoidal mediante el uso del simulador DCACLAB
         
-   2.
-        
-   3. 
+   3. Aprender a como interpretar la informacion que nos da el oscilocopio en el simulador DCACLAB
         
 
         
@@ -60,13 +60,23 @@ Circuito implementado en el simulador DCAC lab
 
     7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-  Amplitud de voltaje: ____________(V)
-  Periodo: ____________(s)
+  Amplitud de voltaje: 6.72 (V)
+  Periodo: 0.4(s)
+
+  Grafico de la amplitud del voltaje medido con el osciloscopio de DCACLAB, para el calculo del periodo simplemente se cuenta cuantos cuadritos demora en dar 1 ciclo completo.
+
+![Amplitud](https://user-images.githubusercontent.com/93834732/153979067-556269c3-5d0b-4dec-b849-ff074874edc5.png)
 
     7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
      
-  f: _____________(Hz)
-  ω: ____________(rad/s)
+  f: 2.5 (Hz)
+  ω: 5000π(rad/s)
+  
+  Calculo de la frencuencia natural
+![Frecuencia](https://user-images.githubusercontent.com/93834732/153974751-1e381344-c09c-428f-914c-96feb4d49caf.GIF)
+
+  Calculo de la frecuencia angular
+![Rad](https://user-images.githubusercontent.com/93834732/153975057-25418a3c-daf7-4bab-b639-23f3811eae17.GIF)
     
     7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.912 (V)
     
@@ -93,12 +103,11 @@ Circuito implementado en el simulador DCAC lab
 
 ## 6. CONCLUSIONES
 
-   1. 
+   1. Se puedo interpretar el esquema propuesto en la práctica y armar correctamente el circuito y verificar su adecuado funcionamiento usando el simulador DCACLAB
         
-   2.
+   2. Se puedo medir y calcular las diversas componentes de la onda senoidal tales como la amplitud, el periodo, la frecuencia natura, la frecuencia angular, además se midieron los voltajes en la resistencia RL.
         
-   3. 
-        
+   3. Se adquirió el conocimiento para el correcto uso del osciloscopio e interpretación de los datos que nos suministraba de dicha herramienta, con estos datos se puedo calcular el periodo y posteriormente la frecuencia natural y la frecuencia angular.   
 
 
 ## 7. BIBLIOGRAFÍA
