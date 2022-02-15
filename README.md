@@ -34,27 +34,22 @@
 Circuito implementado en el simulador DCAC lab
 
 ![cir 1](https://user-images.githubusercontent.com/93396250/153979580-2117e080-1188-4523-b12b-07d52cf1ca93.JPG)
-<p align=center>Figura 1
 
     7.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
 ![cir 2](https://user-images.githubusercontent.com/93396250/153979544-728ef7cc-f54e-4a08-b9a4-8399c3b3cb07.JPG)
-<p align=center>Figura 2
+
     
     7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
 ![cir 3](https://user-images.githubusercontent.com/93396250/153979554-fc21d0b1-54d4-461b-ad17-a7fd7cc6d808.JPG)
-<p align=center>Figura 3
 
-
-![cir 4](https://user-images.githubusercontent.com/93396250/153981003-8ba392e0-b3fc-485a-8538-e4a38b2e1e3b.JPG)
-<p align=center>Figura 4
-
+    
     7.5.4. Responda las siguientes preguntas:
-De acuerdo con lo que se aprecia en la Figura 4, tenemos:
+    
   **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?** 2.3 cuadros
 
-  **¿En qué valor está posicionada la perilla VOLTS/DIV?** 3V (voltios) 
+  **¿En qué valor está posicionada la perilla VOLTS/DIV?** 3V (voltios)
 
   **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?** 4
   
@@ -70,10 +65,13 @@ De acuerdo con lo que se aprecia en la Figura 4, tenemos:
   f: _____________(Hz)
   ω: ____________(rad/s)
     
-    7.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+    7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.112 (V)
     
     7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. 
   ¿Coniciden?
+  
+  
+  
   ¿Por qué?  
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
