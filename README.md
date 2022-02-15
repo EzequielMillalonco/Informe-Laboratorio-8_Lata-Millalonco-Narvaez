@@ -84,7 +84,9 @@ Circuito implementado en el simulador DCAC lab
   
 ![Rad](https://user-images.githubusercontent.com/93834732/153975057-25418a3c-daf7-4bab-b639-23f3811eae17.GIF)
     
-    7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.912 (V)
+    7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+    
+  4.912 (V)
     
     7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. 
   
