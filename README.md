@@ -31,6 +31,8 @@
     
 ![image](https://user-images.githubusercontent.com/93396250/153700710-8c093aec-fc50-4ad6-ad85-ae466c12c710.png)
 
+Circuito implementado en el simulador DCAC lab
+
 ![cir 1](https://user-images.githubusercontent.com/93396250/153979580-2117e080-1188-4523-b12b-07d52cf1ca93.JPG)
 
     7.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
@@ -45,13 +47,13 @@
     
     7.5.4. Responda las siguientes preguntas:
     
-  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
+  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 2.3 cuadros
 
-  ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+  ¿En qué valor está posicionada la perilla VOLTS/DIV? 3V (voltios)
 
-  ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
+  ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 4
   
-  ¿En qué valor está posicionada la perilla TIME/DIV? ___________
+  ¿En qué valor está posicionada la perilla TIME/DIV? 0.1 ms (milisegundos)
 
     7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
