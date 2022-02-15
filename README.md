@@ -46,8 +46,10 @@ Circuito implementado en el simulador DCAC lab
     7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
 ![cir 3](https://user-images.githubusercontent.com/93396250/153979554-fc21d0b1-54d4-461b-ad17-a7fd7cc6d808.JPG)
+  
 
-    
+## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
     7.5.4. Responda las siguientes preguntas:
     
   **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?** 2.3 cuadros
@@ -91,10 +93,6 @@ Circuito implementado en el simulador DCAC lab
   ¿Por qué? 
   
   El voltaje medido por el multimetro a la salida RL es un valor eficaz RMS, mientras que la amplitud es un valor pico de voltaje.
-  
-
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-
 
 ## 5. VIDEO
 
