@@ -77,9 +77,11 @@ Circuito implementado en el simulador DCAC lab
   ω: 5000π(rad/s)
   
   Calculo de la frencuencia natural
+  
 ![Frecuencia](https://user-images.githubusercontent.com/93834732/153974751-1e381344-c09c-428f-914c-96feb4d49caf.GIF)
 
   Calculo de la frecuencia angular
+  
 ![Rad](https://user-images.githubusercontent.com/93834732/153975057-25418a3c-daf7-4bab-b639-23f3811eae17.GIF)
     
     7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.912 (V)
