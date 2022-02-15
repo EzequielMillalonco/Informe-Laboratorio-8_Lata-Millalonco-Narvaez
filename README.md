@@ -51,7 +51,7 @@ Circuito implementado en el simulador DCAC lab
 <p align=center>Figura 4
 
     7.5.4. Responda las siguientes preguntas:
-           De acuerdo con lo que se aprecia en la Figura 4, tenemos:
+De acuerdo con lo que se aprecia en la Figura 4, tenemos:
   **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?** 2.3 cuadros
 
   **¿En qué valor está posicionada la perilla VOLTS/DIV?** 3V (voltios) 
