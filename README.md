@@ -61,6 +61,7 @@ Circuito implementado en el simulador DCAC lab
     7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
   Amplitud de voltaje: 6.72 (V)
+  
   Periodo: 0.4(s)
 
   Grafico de la amplitud del voltaje medido con el osciloscopio de DCACLAB, para el calculo del periodo simplemente se cuenta cuantos cuadritos demora en dar 1 ciclo completo.
@@ -70,6 +71,7 @@ Circuito implementado en el simulador DCAC lab
     7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
      
   f: 2.5 (Hz)
+  
   ω: 5000π(rad/s)
   
   Calculo de la frencuencia natural
@@ -81,6 +83,7 @@ Circuito implementado en el simulador DCAC lab
     7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.912 (V)
     
     7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. 
+  
   ¿Coniciden?
   
   NO
